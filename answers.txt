@@ -7,3 +7,11 @@ Answer: For allowing us to manage changes to codebases over time, and to make co
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Statistics or Finance
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge lets you combine the history of both branches together, rebase adds the history of both branches so that they chronologically fit in one timeline
+
+Q4: What are you looking forward to this semester?
+
+Answer: Going to the gym, watching football, hanging out with friends/family
